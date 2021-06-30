@@ -2,7 +2,7 @@
 
 FlutoMAX Flute Designer a free crossplatform program for those who make flutes. Allows you to calculate playing holes for various musical modes and tunings, as well as the output of the finished flute drawing.
 
-[![Download Latest](https://img.shields.io/badge/download-latest-green.svg)](https://github.com/flutomax/flutomax/lite/releases/)
+[![Download Latest](https://img.shields.io/badge/download-latest-green.svg)](https://github.com/flutomax/flutomax/tree/main/lite/releases/)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/flutomax)
 
 
