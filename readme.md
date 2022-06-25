@@ -11,4 +11,4 @@ FlutoMAX Flute Designer a free crossplatform program for those who make flutes. 
 
 Wishes and suggestions, as well as discovered inaccuracies in the program, please inform the developer.
 
-Download the version compiled for Windows x64, Android, Mac OS [here](https://github.com/flutomax/flutomax/lite/releases/).
+Download the version compiled for Windows x64, Android, Mac OS [here](https://github.com/flutomax/flutomax/tree/main/lite/releases).
